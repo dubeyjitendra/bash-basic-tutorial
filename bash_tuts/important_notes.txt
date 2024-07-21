@@ -1,0 +1,11 @@
+# provide the file permission to file
+
+chmod +x <file_name>
+
+# below both the run bash command to get output
+
+bash <file>.sh
+/<file>.sh
+
+## ; the last line not a mandatory
+

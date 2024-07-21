@@ -1,0 +1,2 @@
+ls: unrecognized option '--hello'
+Try 'ls --help' for more information.
