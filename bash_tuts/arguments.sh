@@ -12,3 +12,6 @@ echo "second output" $2
 
 # To reference all arguments, you can use $@:
 echo $@
+
+## run 
+./arguments.sh john kon
